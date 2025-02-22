@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="keywords" content="books" />
+    <meta name="description" content="books" />
+    <meta type="">
+    <title>Elenco Libri</title>
+  </head>
+  <body>
+    <h1>Elenco Libri</h1>
+    <table border="1">
+      <thead>
+        <tr>
+          <th>Titolo</th>
+          <th>Editore</th>
+          <th>Anno di Edizione</th>
+          <th>Autori</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for book in books %}
+          <tr>
+            <td>{{ book.titolo }}</td>
+            <td>{{ book.editore.ragione_sociale }}</td>
+            <td>{{ book.anno_edizione }}</td>
+            <td>
+              {% for autore in book.autori.all %}
+                {{ autore.nome }} {{ autore.cognome }}
+                {% if not forloop.last %},{% endif %}
+              {% endfor %}
+            </td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </body>
+</html>
