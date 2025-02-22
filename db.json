@@ -1,0 +1,352 @@
+{
+   "libri": [
+      {
+         "titolo": "Le mille e 1 notte",
+         "autore": 1,
+         "editore": 2,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "program in javascript",
+         "autore": 3,
+         "editore": 1,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "MSDOS",
+         "autore": 2,
+         "editore": 2,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 1",
+         "autore": 1,
+         "editore": 2,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 2",
+         "autore": 3,
+         "editore": 1,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 3",
+         "autore": 2,
+         "editore": 2,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 4",
+         "autore": 1,
+         "editore": 1,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 5",
+         "autore": 3,
+         "editore": 2,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 6",
+         "autore": 2,
+         "editore": 1,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 7",
+         "autore": 1,
+         "editore": 2,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 8",
+         "autore": 3,
+         "editore": 1,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 9",
+         "autore": 2,
+         "editore": 2,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 10",
+         "autore": 1,
+         "editore": 1,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 11",
+         "autore": 3,
+         "editore": 2,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 12",
+         "autore": 2,
+         "editore": 1,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 13",
+         "autore": 1,
+         "editore": 2,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 14",
+         "autore": 3,
+         "editore": 1,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 15",
+         "autore": 2,
+         "editore": 2,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 16",
+         "autore": 1,
+         "editore": 1,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 17",
+         "autore": 3,
+         "editore": 2,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 18",
+         "autore": 2,
+         "editore": 1,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 19",
+         "autore": 1,
+         "editore": 2,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 20",
+         "autore": 3,
+         "editore": 1,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 21",
+         "autore": 2,
+         "editore": 2,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 22",
+         "autore": 1,
+         "editore": 1,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 23",
+         "autore": 3,
+         "editore": 2,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 24",
+         "autore": 2,
+         "editore": 1,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 25",
+         "autore": 1,
+         "editore": 2,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 26",
+         "autore": 3,
+         "editore": 1,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 27",
+         "autore": 2,
+         "editore": 2,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 28",
+         "autore": 1,
+         "editore": 1,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 29",
+         "autore": 3,
+         "editore": 2,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 30",
+         "autore": 2,
+         "editore": 1,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 31",
+         "autore": 1,
+         "editore": 2,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 32",
+         "autore": 3,
+         "editore": 1,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 33",
+         "autore": 2,
+         "editore": 2,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 34",
+         "autore": 1,
+         "editore": 1,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 35",
+         "autore": 3,
+         "editore": 2,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 36",
+         "autore": 2,
+         "editore": 1,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 37",
+         "autore": 1,
+         "editore": 2,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 38",
+         "autore": 3,
+         "editore": 1,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 39",
+         "autore": 2,
+         "editore": 2,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 40",
+         "autore": 1,
+         "editore": 1,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 41",
+         "autore": 3,
+         "editore": 2,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 42",
+         "autore": 2,
+         "editore": 1,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 43",
+         "autore": 1,
+         "editore": 2,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 44",
+         "autore": 3,
+         "editore": 1,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 45",
+         "autore": 2,
+         "editore": 2,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 46",
+         "autore": 1,
+         "editore": 1,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 47",
+         "autore": 3,
+         "editore": 2,
+         "anno edizione": "1876"
+      },
+      {
+         "titolo": "Libro 48",
+         "autore": 2,
+         "editore": 1,
+         "anno edizione": "2022"
+      },
+      {
+         "titolo": "Libro 49",
+         "autore": 1,
+         "editore": 2,
+         "anno edizione": "2000"
+      },
+      {
+         "titolo": "Libro 50",
+         "autore": 3,
+         "editore": 1,
+         "anno edizione": "1876"
+      }
+   ],
+   "autori": [
+      {
+         "id": 1,
+         "nome": "scierasad_1",
+         "cognome": "prova_1"
+      },
+      {
+         "id": 2,
+         "nome": "mario_2",
+         "cognome": "rossi_2"
+      },
+      {
+         "id": 3,
+         "nome": "giuseppe_3",
+         "cognome": "verdi_3"
+      }
+   ],
+   "editori": [
+      {
+         "id": 1,
+         "ragione sociale": "edizioni fantasia_1",
+         "indirizzo": "via di qua"
+      },
+      {
+         "id": 2,
+         "ragione sociale": "program edition_2",
+         "indirizzo": "streetlarg",
+         "telefono": "0213456789"
+      }
+   ]
+}
